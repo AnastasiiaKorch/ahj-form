@@ -1,0 +1,33 @@
+.container {
+  margin-top: 200px;
+  position: relative;
+}
+
+.btn {
+  display: block;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  background-color: #db3849;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+}
+
+.hide {
+  display: none;
+}
+
+.popover {
+  border: black 1px solid;
+  border-radius: 3px;
+  width: 200px;
+  position: absolute;
+}
+
+.popover-title {
+  background-color: #DCDCDC ;
+  height: 25px;
+  margin-top: 0px;
+}
